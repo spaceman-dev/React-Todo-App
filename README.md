@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### The final Todo App  
 
-![The Todo App](https://github.com/spaceman-dev/React-Todo-App/tree/master/public/Screen.png?raw=true)
+![The Todo App](screen.png)
