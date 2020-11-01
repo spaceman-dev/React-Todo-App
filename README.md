@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Making a React Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with [React Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A).
 
 ## Available Scripts
 
